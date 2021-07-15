@@ -1,1 +1,2 @@
-console.log("arbol")
+let arbol = "arbol"
+console.log(arbol)

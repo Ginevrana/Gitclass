@@ -1,1 +1,2 @@
-console.log("rosa")
+let rosa= "rosa"
+console.log(rosa)
